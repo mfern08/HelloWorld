@@ -2,5 +2,7 @@
     <string name="app_name">HelloWorld</string>
     <string name="my_name">Fernandez, Maria 4/8/2021</string>
     <string name="hello_world">Hello World!</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
 
 </resources>
